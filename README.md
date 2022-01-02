@@ -13,6 +13,10 @@ Validate the numbers, whether only the numbers are entered.
 User can enter real numbers also.
 Use bc command and piping to do
 
+#After downloaded,give executable permission to .sh file
+you can give executable permission by following below command.
+in Terminal,  $ chmod a+x A34.sh
+
 #Sample execution:
 Test Case 1: 
 ./34_BMI.sh
