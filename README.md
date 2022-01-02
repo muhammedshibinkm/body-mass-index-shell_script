@@ -18,22 +18,22 @@ Test Case 1:
 ./34_BMI.sh
 Enter the weight in Kg : 45.5
 Enter the height in meters : 1.5
-You are NORMAL
+  You are NORMAL
 
 Test Case 2: 
 ./34_BMI.sh
 Enter the weight in Kg : 45.5
 Enter the height in meters : -1.5
-Invalid Input
+   Invalid Input
 
 Test Case 3:
 ./34_BMI.sh
 Enter the weight in Kg : 78
 Enter the height in meters : 2
-You are NORMAL
+   You are NORMAL
 
 Test Case 4:
 ./34_BMI.sh
 Enter the weight in Kg : 12
 Enter the height in meters : 2
-You are UNDERWEIGHT
+  You are UNDERWEIGHT
